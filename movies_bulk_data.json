@@ -1,0 +1,22 @@
+{"index": {"_index": "movies", "_id": "1"}}
+{"moviename": "Inception", "datereleased": "2010-07-16", "rating": 8, "genere": "Science Fiction"}
+{"index": {"_index": "movies", "_id": "2"}}
+{"moviename": "The Matrix", "datereleased": "1999-03-31", "rating": 9, "genere": "Action"}
+{"index": {"_index": "movies", "_id": "3"}}
+{"moviename": "Interstellar", "datereleased": "2014-11-07", "rating": 8, "genere": "Science Fiction"}
+{"index": {"_index": "movies", "_id": "4"}}
+{"moviename": "The Godfather", "datereleased": "1972-03-24", "rating": 9, "genere": "Crime"}
+{"index": {"_index": "movies", "_id": "5"}}
+{"moviename": "Pulp Fiction", "datereleased": "1994-10-14", "rating": 8, "genere": "Crime"}
+{"index": {"_index": "movies", "_id": "6"}}
+{"moviename": "The Dark Knight", "datereleased": "2008-07-18", "rating": 9, "genere": "Action"}
+{"index": {"_index": "movies", "_id": "7"}}
+{"moviename": "Forrest Gump", "datereleased": "1994-07-06", "rating": 8, "genere": "Drama"}
+{"index": {"_index": "movies", "_id": "8"}}
+{"moviename": "Fight Club", "datereleased": "1999-10-15", "rating": 8, "genere": "Drama"}
+{"index": {"_index": "movies", "_id": "9"}}
+{"moviename": "The Shawshank Redemption", "datereleased": "1994-09-23", "rating": 9, "genere": "Drama"}
+{"index": {"_index": "movies", "_id": "10"}}
+{"moviename": "The Lion King", "datereleased": "1994-06-24", "rating": 8, "genere": "Animation"}
+{"index": {"_index": "movies", "_id": "11"}}
+{"moviename": "Star Wars: A New Hope", "datereleased": "1977-05-25", "rating": 8, "genere": "Science Fiction"}
